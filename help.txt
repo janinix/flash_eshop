@@ -1,0 +1,8 @@
+http://127.0.0.1:5000
+
+flask --app file_name.py run
+
+flask --app market.py --debug run  //with debug on
+
+flask --app run shell  //for python terminal kde mi ide databazu púrdavať
+
